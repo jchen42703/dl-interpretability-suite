@@ -11,7 +11,6 @@ setup(name='interp',
       install_requires=[
             'numpy',
             'torch',
-            'unittest'
       ],
       keywords=['deep learning', 'interpretability'],
       )
